@@ -1,2 +1,8 @@
+## Git ou Github: Qual é a diferença?
+## Git ou Github: Você sabe qual é a diferença entre Git e Github? Aprenda nessa tutorial quais são as diferenças entre o Git e o Github!
+A programação é amplamente conhecida e aceita como uma das melhores carreiras existentes, tanto no que diz respeito ao salário quanto à estabilidade do trabalho. Na verdade, ela é uma das escolhas de carreira mais populares, quando se trata de TI. O que facilita o trabalho dos programadores são as várias ferramentas que podem ser usadas diariamente. Uma dessas ferramentas é chamada Git… Ou seria GitHub ..? Como você provavelmente percebeu, com essa minha piada não tão inteligente, a discussão sobre Git ou Github é algo comum. As pessoas constantemente confundem os dois ( eles são diferentes! ). Para deixar claro, de uma vez por todas, hoje vamos falar sobre a diferença entre o Git e o GitHub.
+
+No início do nosso tutorial sobre Git ou Github, vou falar sobre programação e sua correlação com o Git e o GitHub. Em seguida, apresentarei os dois conceitos separadamente. Vamos dar uma olhada no que são o Git e o GitHub - como eles surgiram, para que são usados e assim por diante. Depois disso, falaremos sobre todas as informações essenciais relacionadas a esses dois conceitos.
+
 link para downloads do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
